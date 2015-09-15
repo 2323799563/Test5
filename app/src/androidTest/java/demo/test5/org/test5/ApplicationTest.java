@@ -10,6 +10,6 @@ import android.util.Log;
 public class ApplicationTest extends ApplicationTestCase<Application> {
     public ApplicationTest() {
         super(Application.class);
-        Log.e("fuck", "2015-09-15 11:58:28");
+        Log.e("fuck", "2015-09-15 11:58:28,sssss");
     }
 }
